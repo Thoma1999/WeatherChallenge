@@ -1,5 +1,3 @@
-from pickletools import unicodestringnl
-from timeit import repeat
 import requests
 import json
 import os.path
